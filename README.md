@@ -12,4 +12,4 @@ Developed an interactive Manufacturing Analytics Dashboard using Power BI, SQL, 
 
 ## Dashboard Preview
 
-![Dashboard](Dashboard.png)
+!![Dashboard](dashboard.png)
